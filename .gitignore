@@ -1,6 +1,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+# Custom
+aws_cred.txt
+
 # .tfstate files
 # *.tfstate
 # *.tfstate.*
