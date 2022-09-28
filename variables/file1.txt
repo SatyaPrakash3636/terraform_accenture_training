@@ -1,3 +1,5 @@
 this is Terraform training for Accenture by RPS having schedule of 5 days and is trainer Pavan : true
 users are :user1, pavan and sam on server
 Configurations available for servers : 1XCPU-1GB , 2XCPU-4GB, 8XCPU-64GB
+Topic is DevOps , Trainer is Pavan , Duration is 5
+Topic is DevOps , Trainer is Pavan , Duration is 10
