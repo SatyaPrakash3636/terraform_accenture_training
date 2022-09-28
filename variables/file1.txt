@@ -1,0 +1,1 @@
+this is Terraform training for Accenture by RPS having schedule of 5 days and is trainer Pavan : true
