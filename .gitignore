@@ -3,7 +3,7 @@
 
 # Custom
 aws_cred.txt
-aws_loops/terraform.tfvars
+# aws_loops/terraform.tfvars
 
 # .tfstate files
 # *.tfstate
